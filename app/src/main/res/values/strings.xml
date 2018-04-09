@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">GameOfThronesTrivia</string>
+
+    <!-- This section will be for the title and elements before the questions. -->
+    <string name="appTitle">Game of Thrones Trivia</string>
+    <string name="appDescription">Put your Game of Thrones trivia to the test by answering the questions below.\n\nAre you a wise maester or do you know nothing, Jon Snow?</string>
+
+    <!-- This section will be for questions. -->
+    <string name="questionOne">1. What does the phrase \"valar moghulis\" mean?</string>
+    <string name="questionTwo">2. Who was Arya Stark\'s \"dancing\" instructor?</string>
+    <string name="questionThree">3. What castle are Arya, Gendry, and Hot Pie imprisoned in Lannister custody?</string>
+    <string name="questionFour">4. Which of the following are NOT kingdoms in Westeros?</string>
+    <string name="questionFive">5. Which of the following characters never suffered from Grayscale?</string>
+    <string name="questionSix">6. Whose death lead Oberyn Martell to swear vengeance against Gregor Clegane?</string>
+    <string name="questionSeven">7. Appearing on its sigil, which animal is the representative of House Stark?</string>
+
+    <!-- This section will be for answers. -->
+
+    <!-- Answers to #1. -->
+    <string name="Q1AnswerA">All men must die</string>
+    <string name="Q1AnswerB">Death impermanent</string>
+    <string name="Q1AnswerC">All men must serve</string>
+    <string name="Q1AnswerD">Not today</string>
+    <!-- Answers to #2. -->
+    <string name="Q2AnswerA">The Septim Baelor</string>
+    <string name="Q2AnswerB">Syrio Forel</string>
+    <string name="Q2AnswerC">Jaqen H\'gar</string>
+    <string name="Q2AnswerD">Amory Lorch</string>
+    <!-- Answers to #3. -->
+    <string name="Q3AnswerA">Sunspear</string>
+    <string name="Q3AnswerB">Casterly Rock</string>
+    <string name="Q3AnswerC">Harrenhal</string>
+    <string name="Q3AnswerD">The Red Keep</string>
+    <!-- Answers to #4. -->
+    <string name="Q4AnswerA">The Stormlands</string>
+    <string name="Q4AnswerB">The Flatlands</string>
+    <string name="Q4AnswerC">Essos</string>
+    <string name="Q4AnswerD">Dorne</string>
+    <!-- Answers to #5. -->
+    <string name="Q5AnswerA">Ygritte</string>
+    <string name="Q5AnswerB">Shireen Baratheon</string>
+    <string name="Q5AnswerC">Jorah Mormont</string>
+    <string name="Q5AnswerD">Archmaester Pylos</string>
+    <!-- Answers to #6. -->
+    <string name="Q6AnswerA">Elia Martell</string>
+    <string name="Q6AnswerB">Nymeria Sand</string>
+    <string name="Q6AnswerC">Ellaria Sand</string>
+    <string name="Q6AnswerD">Obara Martell</string>
+    <!-- Answers to #7. -->
+
+    <!-- Button to Get Results -->
+    <string name="getResults">Get Results</string>
+
+    <!-- Toast Possibilities -->
+
+    <string name="veryWellString">You\'re a real Game of Thrones pro!</string>
+    <string name="averageString">Very good, but you definitely need a little practice!</string>
+    <string name="notWellString">Nice try, but it seems like it\'s time to rewatch the series (or reread the books!).</string>
+
+</resources>
